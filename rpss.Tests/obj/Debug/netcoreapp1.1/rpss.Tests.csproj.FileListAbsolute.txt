@@ -1,0 +1,13 @@
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rpss.Tests.deps.json
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rpss.Tests.runtimeconfig.json
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rpss.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rpss.Tests.dll
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rpss.Tests.pdb
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rps.dll
+/Users/Guest/Desktop/rps/rpss.Tests/bin/Debug/netcoreapp1.1/rps.pdb
+/Users/Guest/Desktop/rps/rpss.Tests/obj/Debug/netcoreapp1.1/rpss.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/rps/rpss.Tests/obj/Debug/netcoreapp1.1/rpss.Tests.dll
+/Users/Guest/Desktop/rps/rpss.Tests/obj/Debug/netcoreapp1.1/rpss.Tests.pdb
